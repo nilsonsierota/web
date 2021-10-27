@@ -1,4 +1,5 @@
 ![Languages](https://img.shields.io/github/languages/top/nilsonsierota/web)
+![Languages Count](https://img.shields.io/github/languages/count/nilsonsierota/web)
 
 Projeto feito em conjunto com o **BackEnd** [node_heat](https://github.com/nilsonsierota/node_heat) para a semana **NLW Heat da RocketSeat!**
 
